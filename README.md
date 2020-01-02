@@ -1,5 +1,5 @@
 # Image_Text_Reader
-Read the text from a input image
+Read the text from an input image
 
 Python:3.7
 
